@@ -75,9 +75,9 @@ export const projectsData = [
     img: 'Nike.png',
     title: 'Nike Tracker',
     info:
-      'Just Do It Nike tracker app allows user to view, create, and track daily workouts. User is able to view workout or create new workouts to track. A dashboard with details of the workouts per day tracked is displayed in several graphs and charts to show the varying progress of the workouts.',
+      '•	Responsive website that allows any beginner to learn about stocks and get more info on trending markets.',
     info2:
-      'A mongo database is created to keep track of all the results using mongoose schema and html and api routes are handled using expressjs.',
+      '•	Developed using JavaScript, HTML, CSS, and 4 different APIs.',
     url: 'https://justdoit-tracker.herokuapp.com/',
     repo: 'https://github.com/musstaffali/nike_Tracker', // if no repo, the button will not show up
   },
