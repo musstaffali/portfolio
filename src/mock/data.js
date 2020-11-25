@@ -56,7 +56,7 @@ export const projectsData = [
     title: 'Save Dat Money',
     info: '•	Responsive website app that generates dynamic profile cards for employees based off user input.',
     info2:
-      '•	Developed using Web Manifest, service-worker, Express.js, Morgan, Indexed DB, and Cache',
+      '•	Developed using Web Manifest, service-worker, Express.js, Morgan, Indexed DB, and Cache.',
     url: 'https://savedatcurrency.herokuapp.com/',
     repo: 'https://github.com/musstaffali/save-dat-money', // if no repo, the button will not show up
   },
