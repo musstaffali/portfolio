@@ -89,8 +89,8 @@ export const projectsData = [
       '• Responsive website from conception that allows for users to search for their perfect hotel room',
     info2:
       '• Developed using React.js, Node.js and implemented React Context API for state management',
-    url: 'https://justdoit-tracker.herokuapp.com/',
-    repo: 'https://github.com/musstaffali/nike_Tracker', // if no repo, the button will not show up
+    url: 'https://cornithiahotel.herokuapp.com',
+    repo: 'https://github.com/musstaffali/ReactCornithiaHotel', // if no repo, the button will not show up
   },
 ];
 
