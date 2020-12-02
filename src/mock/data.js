@@ -86,7 +86,7 @@ export const projectsData = [
     img: 'khartoum.jpg',
     title: 'Corinthia Hotel of Khartoum',
     info:
-      '• Responsive website from conception that allows for users to search for their perfect hotel room',
+      '• React website from conception that allows for users to search for their perfect suite',
     info2:
       '• Constructed using React.js, Node.js and implemented React Context API for state management',
     url: 'https://cornithiahotel.herokuapp.com',
