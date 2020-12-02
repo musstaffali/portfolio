@@ -34,9 +34,9 @@ export const projectsData = [
     img: 'stocks.png',
     title: 'WhatDaStock',
     info:
-      '•	Responsive website that allows any beginner to learn about stocks and get more info on trending markets',
+      '• Group project website designed to allow any beginner to learn about stocks and get more info on trending markets',
     info2:
-      '•	Developed using JavaScript, HTML, CSS, and 4 different APIs',
+      '• Created using JavaScript, HTML, CSS, and 4 separate APIs',
     url: ' https://rachelkline.github.io/WhatTheStock/',
     repo: 'https://github.com/musstaffali/StockFinder', // if no repo, the button will not show up
   },
@@ -46,7 +46,7 @@ export const projectsData = [
     title: 'Restaurant Finder',
     info:
       "•	Personal website from conception that allows for users to search for restaurants in their area or globally",
-    info2: '•	Developed using node.js, Cloudinary API, Express.js, Passport.js, Google Maps API',
+    info2: '•	Built using node.js, Cloudinary API, Express.js, Passport.js, Google Maps API',
     url: 'https://findtherestaurant500.herokuapp.com/',
     repo: 'https://github.com/musstaffali/project-2', // if no repo, the button will not show up
   },
@@ -66,7 +66,7 @@ export const projectsData = [
     title: 'Staff Directory',
     info:
       "•	Responsive web app that can allow user to view their entire employee directory at once, or search for a specific employee",
-    info2: '•	Developed using Web Manifest, service-worker, Express.js, Morgan, Indexed DB, and Cache',
+    info2: '•	Complied using Web Manifest, service-worker, Express.js, Morgan, Indexed DB, and Cache',
     url: 'https://staffdatabase.herokuapp.com',
     repo: 'https://github.com/musstaffali/staffDirectory', // if no repo, the button will not show up
   },
@@ -88,7 +88,7 @@ export const projectsData = [
     info:
       '• Responsive website from conception that allows for users to search for their perfect hotel room',
     info2:
-      '• Developed using React.js, Node.js and implemented React Context API for state management',
+      '• Constructed using React.js, Node.js and implemented React Context API for state management',
     url: 'https://cornithiahotel.herokuapp.com',
     repo: 'https://github.com/musstaffali/ReactCornithiaHotel', // if no repo, the button will not show up
   },
