@@ -31,6 +31,16 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
+    img: 'newsStation.png',
+    title: 'News Station',
+    info:
+      "•	This application is a Node application that allows users to access the latest current news by searching for a specific topic or subject.",
+    info2: '•	Manufactured using Nodejs, HTML, CSS, and NewsAPI',
+    url: 'https://news-station.herokuapp.com',
+    repo: 'https://github.com/musstaffali/pwa-newsStation', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
     img: 'stocks.png',
     title: 'WhatDaStock',
     info:
