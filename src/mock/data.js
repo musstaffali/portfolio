@@ -24,7 +24,7 @@ export const aboutData = {
     "As a Full-Stack Student and aspiring Software Engineer, I'm excited to utilize technology to foster growth, development, and progress while also acknowledging the importance of interpersonal work toward equity and betterment. I'm particularly passionate about AI and Machine Learning--and the many opportunities in pairing them to solve global issues.",
   paragraphThree:
     'Skills: HTML3, CSS3, jQuery, Gatsby, Bootstrap, Firebase, JavaScript, React.js, Angular, Express.js, Handlebars, Node.js, MongoDB, MySQL, and API Integration ',
-  resume: 'https://drive.google.com/file/d/1bvwnCQqw1Hm8R2iSs42p3WJK29WwBe3N/view?usp=sharing', // if no resume, the button will not show up
+  resume: 'https://drive.google.com/file/d/1vCbQhcsstre8VTJreaSr1R8tu98R8c2O/view?usp=sharing', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
