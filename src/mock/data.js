@@ -19,7 +19,7 @@ export const heroData = {
 export const aboutData = {
   img: 'me.png',
   paragraphOne:
-    "Hi all! I'm Mustafa, a Full Stack Software Engineer at Code For America seeking to help make the world a more just and equitable place through the use of beautiful, intuitve and helpful software. I am also a recent Full Stack Development Graduate Student at UPenn LPS Coding Bootcamp. An intensive 12-week-long bootcamp, dedicated to designing and building web applications. (Grad Nov. 2020). ",
+    "Hi all! I'm Mustafa, a Full Stack Software Engineer at Code For America seeking to help make the world a more just and equitable place through the use of beautiful, intuitive, and helpful software. I am also a recent Full Stack Development Graduate Student at UPenn LPS Coding Bootcamp. An intensive 12-week-long bootcamp, dedicated to designing and building web applications. (Grad Nov. 2020). ",
   paragraphTwo:
     "As a Full-Stack Student and aspiring Software Engineer, I'm excited to utilize technology to foster growth, development, and progress while also acknowledging the importance of interpersonal work toward equity and betterment. I'm particularly passionate about AI and Machine Learning--and the many opportunities in pairing them to solve global issues.",
   paragraphThree:
