@@ -34,7 +34,7 @@ export const projectsData = [
     img: 'covid.png',
     title: 'Fight COVID',
     info: "•	This project's goal is to create a web application that the local public can use to easily find COVID vaccine and testing by locailty in there area.",
-    info2: '•	Manufactured using Nodejs, HTML, CSS, and API',
+    info2: '•	Being developed using Nodejs, HTML, CSS, and API',
     url: 'https://musstaffali.github.io/comingsoonpage/'
     
   },
