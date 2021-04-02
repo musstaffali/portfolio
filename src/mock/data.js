@@ -35,7 +35,8 @@ export const projectsData = [
     title: 'Fight COVID',
     info: "•	This project's goal is to create a web application that the local public can use to easily find COVID vaccine and testing by locailty in there area.",
     info2: '•	Manufactured using Nodejs, HTML, CSS, and API',
-    info3: 'Coming Soon'
+    url: 'https://musstaffali.github.io/comingsoonpage/'
+    
   },
   {
     id: nanoid(),
