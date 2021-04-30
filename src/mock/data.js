@@ -43,7 +43,7 @@ export const projectsData = [
     img: 'Barjr.png',
     title: 'Barjr Qatar',
     info: "•	A personalized project created with the intension of being used as a platform for a restaurant",
-    info2: '•	Being developed using Reactjs, YarnPKG, CSS, and Firebase Realtime Database',
+    info2: '•	Built using Reactjs, YarnPKG, CSS, and Firebase Realtime Database',
     url: 'https://bajr-doha.herokuapp.com/#/',
     repo: 'https://github.com/musstaffali/React-Dine-In', // if no repo, the button will not show up
     
