@@ -40,7 +40,7 @@ export const projectsData = [
   },
    {
     id: nanoid(),
-    img: 'covid.png',
+    img: 'Barjr.png',
     title: 'Barjr Qatar',
     info: "•	A personalized project created with the intension of being used as a platform for a restaurant",
     info2: '•	Being developed using Reactjs, YarnPKG, CSS, and Firebase Realtime Database',
