@@ -38,13 +38,23 @@ export const projectsData = [
     url: 'https://musstaffali.github.io/comingsoonpage/'
     
   },
+   {
+    id: nanoid(),
+    img: 'covid.png',
+    title: 'Barjr Qatar',
+    info: "•	A personalized project created with the intension of being used as a platform for a restaurant",
+    info2: '•	Being developed using Reactjs, YarnPKG, CSS, and Firebase Realtime Database',
+    url: 'https://bajr-doha.herokuapp.com/#/',
+    repo: 'https://github.com/musstaffali/React-Dine-In', // if no repo, the button will not show up
+    
+  },
   {
     id: nanoid(),
     img: 'newsStation.png',
     title: 'News Station',
     info:
       "•	This application is a Node application that allows users to access the latest current news by searching for a specific topic or subject.",
-    info2: '•	Manufactured using Nodejs, HTML, CSS, and NewsAPI',
+    info2: '•	Built using Nodejs, HTML, CSS, and NewsAPI',
     url: 'https://news-station.herokuapp.com',
     repo: 'https://github.com/musstaffali/pwa-newsStation', // if no repo, the button will not show up
   },
