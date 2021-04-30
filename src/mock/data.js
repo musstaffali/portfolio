@@ -50,6 +50,17 @@ export const projectsData = [
   },
   {
     id: nanoid(),
+    img: 'khartoum.jpg',
+    title: 'Corinthia Hotel of Khartoum',
+    info:
+      '• React website from conception that allows for users to search for their perfect suite',
+    info2:
+      '• Constructed using React.js, Node.js and implemented React Context API for state management',
+    url: 'https://cornithiahotel.herokuapp.com',
+    repo: 'https://github.com/musstaffali/ReactCornithiaHotel', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
     img: 'newsStation.png',
     title: 'News Station',
     info:
@@ -109,17 +120,6 @@ export const projectsData = [
       '•	Developed using mongoose schema and HTML and API routes are handled using Express.js',
     url: 'https://justdoit-tracker.herokuapp.com/',
     repo: 'https://github.com/musstaffali/nike_Tracker', // if no repo, the button will not show up
-  },
-  {
-    id: nanoid(),
-    img: 'khartoum.jpg',
-    title: 'Corinthia Hotel of Khartoum',
-    info:
-      '• React website from conception that allows for users to search for their perfect suite',
-    info2:
-      '• Constructed using React.js, Node.js and implemented React Context API for state management',
-    url: 'https://cornithiahotel.herokuapp.com',
-    repo: 'https://github.com/musstaffali/ReactCornithiaHotel', // if no repo, the button will not show up
   },
 ];
 
