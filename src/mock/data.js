@@ -43,7 +43,7 @@ export const projectsData = [
     img: 'cinema.png',
     title: '4 Seasonz Cinema',
     info: "•	A webpage project to replicate the idea of a movie theater website.",
-    info2: '•	Built using Reactjs, CSS, HTML, and API',
+    info2: '•	Developed using Reactjs, CSS, HTML, and API',
     url: 'https://60ad9564bc18270098b0979a--optimistic-ramanujan-7da5b8.netlify.app',
     repo: 'https://github.com/musstaffali/cinema-sites', // if no repo, the button will not show up
     
