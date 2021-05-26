@@ -41,11 +41,11 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'cinema.png',
-    title: '4 Seasonz Cienma',
-    info: "•	A personalized project created with the intension of being used as a platform for a restaurant",
-    info2: '•	Built using Reactjs, YarnPKG, CSS, and Firebase Realtime Database',
+    title: '4 Seasonz Cinema',
+    info: "•	A webpage project to replicate the idea of a movie theater website.",
+    info2: '•	Built using Reactjs, CSS, and HTML',
     url: 'https://60ad9564bc18270098b0979a--optimistic-ramanujan-7da5b8.netlify.app',
-    repo: 'https://github.com/musstaffali/React-Dine-In', // if no repo, the button will not show up
+    repo: 'https://github.com/musstaffali/cinema-sites', // if no repo, the button will not show up
     
   },
    {
