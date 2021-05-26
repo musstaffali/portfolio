@@ -44,7 +44,7 @@ export const projectsData = [
     title: '4 Seasonz Cienma',
     info: "•	A personalized project created with the intension of being used as a platform for a restaurant",
     info2: '•	Built using Reactjs, YarnPKG, CSS, and Firebase Realtime Database',
-    url: 'https://bajr-doha.herokuapp.com/#/',
+    url: 'https://60ad9564bc18270098b0979a--optimistic-ramanujan-7da5b8.netlify.app',
     repo: 'https://github.com/musstaffali/React-Dine-In', // if no repo, the button will not show up
     
   },
