@@ -40,7 +40,7 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'cinema.png',
+    img: 'furniture.jpg',
     title: 'Furniture World',
     info: "•	A high-fidelity fully-fledged model eCommerce store",
     info2: '•	Created using Next.js, ReactStrap, and SASS',
