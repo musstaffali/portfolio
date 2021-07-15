@@ -41,6 +41,16 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'cinema.png',
+    title: 'Furniture World',
+    info: "•	A high-fidelity fully-fledged model eCommerce store",
+    info2: '•	Created using Next.js, ReactStrap, and SASS',
+    url: 'https://furniturefield.herokuapp.com',
+    repo: 'https://github.com/musstaffali/furnitureWorld', // if no repo, the button will not show up
+    
+  },
+  {
+    id: nanoid(),
+    img: 'cinema.png',
     title: '4 Seasonz Cinema',
     info: "•	A webpage project to replicate the idea of a movie theater website.",
     info2: '•	Developed using Reactjs, CSS, HTML, and API',
