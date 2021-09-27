@@ -38,6 +38,16 @@ export const projectsData = [
     url: 'https://musstaffali.github.io/comingsoonpage/'
     
   },
+    {
+    id: nanoid(),
+    img: 'furniture.jpg',
+    title: 'Sky Data',
+    info: "•	A webpage that engages in flight routes acorss the globe",
+    info2: '•	Created using Reactjs, CSS, HTML, and Data Base',
+    url: 'https://youthful-williams-e2da2e.netlify.app',
+    repo: 'https://github.com/musstaffali/airplane-radar', // if no repo, the button will not show up
+    
+  },
   {
     id: nanoid(),
     img: 'furniture.jpg',
