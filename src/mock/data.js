@@ -40,7 +40,7 @@ export const projectsData = [
   },
     {
     id: nanoid(),
-    img: 'furniture.jpg',
+    img: 'airline.png',
     title: 'Sky Data',
     info: "•	A webpage that engages in flight routes acorss the globe",
     info2: '•	Created using Reactjs, CSS, HTML, and Data Base',
