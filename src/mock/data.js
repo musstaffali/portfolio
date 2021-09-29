@@ -42,7 +42,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'airline.png',
     title: 'Sky Data',
-    info: "•	A webpage that engages in flight routes across the globe",
+    info: "•	A webpage that engages in trickling out flight routes across the globe",
     info2: '•	Created using Reactjs, CSS, HTML, and Data Base',
     url: 'https://youthful-williams-e2da2e.netlify.app',
     repo: 'https://github.com/musstaffali/airplane-radar', // if no repo, the button will not show up
