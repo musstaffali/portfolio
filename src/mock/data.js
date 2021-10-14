@@ -31,10 +31,20 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
+    img: 'Garden.png',
+    title: 'Food Garden',
+    info: "•	Web-tool that maps and provides a rudimentary volunteer management interface for local community gardens.",
+    info2: '•	Being developed using React.Js, HTML, CSS, and MySQL',
+    url: 'https://github.com/musstaffali/react-Geo-pin#description',
+    repo: 'https://github.com/musstaffali/react-Geo-pin#description', // if no repo, the button will not show up
+    
+  },
+  {
+    id: nanoid(),
     img: 'covid.png',
     title: 'Fight COVID',
     info: "•	This project's goal is to create a web application that the local public can use to easily find COVID vaccine and testing by locailty in there area.",
-    info2: '•	Being developed using Nodejs, HTML, CSS, and API',
+    info2: '•	Developing using Nodejs, HTML, CSS, and API',
     url: 'https://musstaffali.github.io/comingsoonpage/'
     
   },
